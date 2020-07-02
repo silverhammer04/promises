@@ -1,4 +1,4 @@
-
+// consume means to run 
 let backend = (num) => {
  const checker = new Promise((resolve, reject) => {
     
